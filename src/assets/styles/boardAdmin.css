@@ -1,0 +1,84 @@
+
+.card-container.card {
+    max-width: 350px;
+    padding: 40px 40px;
+  }
+  
+  .card {
+    background-color: #f7f7f7;
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px;
+    margin-top: 50px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    height: auto;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .badge-warning{
+    background-color: #e63946,
+    
+  }
+
+  .list-heading {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .user-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .user-list li {
+    padding: 10px 0;
+    border-bottom: 1px solid #fff;
+  }
+  
+  .user-list li:last-child {
+    border-bottom: none;
+  }
+
+  .user-list-item:hover {
+    text-decoration: none; 
+  }
+  
+
+  .search-bar {
+    margin-bottom: 10px;
+  }
+  
+  .search-bar input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .search-bar input:focus {
+    outline: none;
+    border-color: #e63946;
+    border-width: 2px;
+  }
+
+  .username{
+    color: black;
+    font-weight: 600;
+  }
+
+  .username:hover{
+    text-decoration: none;
+  }
+  
