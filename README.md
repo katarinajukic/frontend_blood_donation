@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# blood donation app - frontend
+Početna stranica:
+![pocetna](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/0f416f17-21cb-4cd6-9c69-71993214e23d)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## user - donor
+Uspješna i neuspješna registracija:
+![nereg](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6)
+![us](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/b0e86396-0cd1-46a3-b3d6-8418be70ee25)
 
-## Available Scripts
+Prijava:
+![prijava](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a8ea2b26-0110-48f5-b5ce-a3a7ce33ff03)
 
-In the project directory, you can run:
+Stranice unutar računa donora:
+![osobni](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/71c934a3-1143-4cf3-9f5b-e0f1a281238a)
+![prikazlistedarivanja](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4137c57a-add7-4cbb-8fa1-25ef3c30e2c9)
+![karta](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/9826c5cb-a753-4dc3-9794-dfaf2a851e8e) ![11](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/e408f5da-b9ad-4ffe-b801-46a66a6de8e3)
+![anketa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/38c89b08-1b6b-4ef5-8e4c-d5ebefd23570) 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### admin - liječnik
+Stranice unutar računa liječnika:
+![lista](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4d89a7d8-9e8a-4b7d-b801-cb228236ef03)
+![listadaa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5b8401f0-f015-4acb-bf10-9b0e82d2844f)
+![pretraga](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/86c0d32c-182a-47a0-9fbe-e6fa408f32ef)
+![dropdown](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/f3041b65-3d30-42fa-8081-fef2774380b0)
+![rh](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/50e22ec1-22bb-4c06-b03e-053dae1b5578)
