@@ -32,5 +32,6 @@ Pretraživanje:
 
 <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/86c0d32c-182a-47a0-9fbe-e6fa408f32ef" width="300" height="289">
 
+
 ![dropdown](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/f3041b65-3d30-42fa-8081-fef2774380b0)
 ![rh](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/50e22ec1-22bb-4c06-b03e-053dae1b5578)
