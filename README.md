@@ -4,7 +4,7 @@ Početna stranica:
 
 ## User - donor
 Uspješna i neuspješna registracija:
-<img src="C:\Users\kata\Desktop\faks\preddiplomski\zavrsni\slike_word_zavrsni\nereg.jpg" width="200" height="349"> <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6" width="200" height="265">
+<img src="![image](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5c17e499-5ef4-4bff-af49-01469f45940a)" width="500" height="662"> <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6" width="500" height="880">
 
 
 Prijava:
