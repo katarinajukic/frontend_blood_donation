@@ -1,4 +1,4 @@
-# blood donation app - frontend
+# Web aplikacija za vođenje evidencije dobrovoljnog darivnja krvi - frontend
 Početna stranica:
 ![pocetna](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/0f416f17-21cb-4cd6-9c69-71993214e23d)
 
@@ -17,7 +17,7 @@ Stranice unutar računa donora:
 ![anketa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/38c89b08-1b6b-4ef5-8e4c-d5ebefd23570) 
 
 
-### admin - liječnik
+## admin - liječnik
 Stranice unutar računa liječnika:
 ![lista](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4d89a7d8-9e8a-4b7d-b801-cb228236ef03)
 ![listadaa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5b8401f0-f015-4acb-bf10-9b0e82d2844f)
