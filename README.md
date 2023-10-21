@@ -27,12 +27,5 @@ Prijava:
 
 ![lista](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4d89a7d8-9e8a-4b7d-b801-cb228236ef03)
 ![listadaa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5b8401f0-f015-4acb-bf10-9b0e82d2844f)
-
-Pretraživanje: 
-
-<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/86c0d32c-182a-47a0-9fbe-e6fa408f32ef" width="300" height="289">
-
-
-
 ![dropdown](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/f3041b65-3d30-42fa-8081-fef2774380b0)
 ![rh](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/50e22ec1-22bb-4c06-b03e-053dae1b5578)
