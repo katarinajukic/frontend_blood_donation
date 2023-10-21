@@ -10,7 +10,7 @@ Uspješna i neuspješna registracija:
 
 Prijava:
 
-<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a8ea2b26-0110-48f5-b5ce-a3a7ce33ff03" width="200" height="176">
+<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a8ea2b26-0110-48f5-b5ce-a3a7ce33ff03" width="300" height="264">
 
 
 Stranice unutar računa donora:
