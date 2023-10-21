@@ -14,7 +14,7 @@ Prijava:
 <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a8ea2b26-0110-48f5-b5ce-a3a7ce33ff03" width="300" height="264">
 
 
-Stranice unutar računa donora:
+### Stranice unutar računa donora:
 
 ![osobni](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/71c934a3-1143-4cf3-9f5b-e0f1a281238a)
 ![prikazlistedarivanja](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4137c57a-add7-4cbb-8fa1-25ef3c30e2c9)
