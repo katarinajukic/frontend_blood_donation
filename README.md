@@ -2,10 +2,10 @@
 Početna stranica:
 ![pocetna](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/0f416f17-21cb-4cd6-9c69-71993214e23d)
 
-## user - donor
+## User - donor
 Uspješna i neuspješna registracija:
-![nereg](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6)
-![us](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/b0e86396-0cd1-46a3-b3d6-8418be70ee25)
+<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6" width="200" height="349"> <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6" width="200" height="265">
+
 
 Prijava:
 ![prijava](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a8ea2b26-0110-48f5-b5ce-a3a7ce33ff03)
@@ -17,7 +17,7 @@ Stranice unutar računa donora:
 ![anketa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/38c89b08-1b6b-4ef5-8e4c-d5ebefd23570) 
 
 
-## admin - liječnik
+## Admin - liječnik
 Stranice unutar računa liječnika:
 ![lista](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/4d89a7d8-9e8a-4b7d-b801-cb228236ef03)
 ![listadaa](https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5b8401f0-f015-4acb-bf10-9b0e82d2844f)
