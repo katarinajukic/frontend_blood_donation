@@ -5,7 +5,7 @@ Početna stranica:
 ## User - donor
 Uspješna i neuspješna registracija:
 
-<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5c17e499-5ef4-4bff-af49-01469f45940a" width="500" height="662"> <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/a6ae85fe-6827-4172-ae97-2b40b62e5dc6" width="500" height="880">
+<img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/5c17e499-5ef4-4bff-af49-01469f45940a" width="500" height="880"> <img src="https://github.com/katarinajukic/frontend_blood_donation/assets/133279741/93a2c104-8eb9-45bf-ab5f-252daf3eb2ab" width="500" height="662">
 
 
 Prijava:
